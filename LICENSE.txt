@@ -1,0 +1,5 @@
+Copyright (c) 2025 Bhagavath Kumar
+
+All rights reserved. This source code is provided for educational and informational purposes only. No part of this project may be reproduced, distributed, or used commercially without explicit written permission from the author.
+
+Contact: kumar.p.bhagavath@gmail.com
